@@ -1,8 +1,3 @@
-Tristan Stone
-Michelle Ip
-James McManus
-Ed Bao
-
 README:
 To start game, simply type 'make play' into terminal.
 Once game is started, enter number of players (2 to 9 inclusive) and difficulty (1 to 3 inclusive, with 1 as easiest)
